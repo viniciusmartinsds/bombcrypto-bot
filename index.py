@@ -4,10 +4,7 @@ import mss
 import pyautogui
 import time
 import sys
-
 import yaml
-
-import requests
 
 cat = """
                                                 _
